@@ -53,6 +53,7 @@ describe Listing do
         listing: listing,
         guest: logan
       )
+      # binding.pry
     end
 
     let!(:review) do
